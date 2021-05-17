@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stanymlowo
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...fullstack
+- 🌱 I’m currently learning ...fullstack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
